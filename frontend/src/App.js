@@ -5,14 +5,14 @@ import Footer from "./components/Footer";
 const App = () => {
   return (
     <>
-    <Header>
-      <main className="py-3">
-        <Container>
-        <h1>Welcome to Next Generation E-commerce Platform</h1>
-        </Container>
-      </main>
-    </Header>
-    <Footer/>
+      <Header>
+        <main className="py-3">
+          <Container>
+          <h1>Welcome to Next Generation E-commerce Platform</h1>
+          </Container>
+        </main>
+      </Header>
+      <Footer/>
     </>
   )
 }
